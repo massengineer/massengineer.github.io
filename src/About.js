@@ -14,7 +14,7 @@ export default function About() {
       </p>
       <p className="mt-4 text-gray-400 max-w-2xl mx-auto">
         When I'm not coding, I'm diving into STEM-related podcasts, learning
-        foreign languages, solving puzzles, tinkering with arduinos or follwoing
+        foreign languages, solving puzzles, tinkering with arduinos or following
         online ethical hacking courses. I love challenges and I always strive to
         expand my skillset. I am currently reading Mechatronic & Robotic
         Engineering at the The University of Birmingham and working on a fitness
