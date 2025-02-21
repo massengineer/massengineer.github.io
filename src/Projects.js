@@ -13,6 +13,10 @@ const projects = [
     title: "Basic Stock Price Prediction",
     link: "https://github.com/massengineer/First-Stock-Price-Prediction",
   },
+  {
+    title: "CRUD Expense Tracker",
+    link: "https://github.com/massengineer/expense-tracker",
+  },
 ];
 
 export default function Projects() {
@@ -26,7 +30,7 @@ export default function Projects() {
             href={project.link}
             target="_blank"
             rel="noopener noreferrer"
-            className="p-4 w-64 bg-gray-800 rounded-lg shadow-lg hover:bg-gray-700 transition"
+            className="p-4 w-64 bg-gray-800 rounded-lg shadow-lg hover:bg-gray-700 transition flex items-center justify-center"
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ duration: 1, delay: index * 0.2 }}
