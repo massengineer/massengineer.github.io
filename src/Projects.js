@@ -17,6 +17,10 @@ const projects = [
     title: "CRUD Expense Tracker",
     link: "https://github.com/massengineer/expense-tracker",
   },
+  {
+    title: "AI Digital Health Hackathon",
+    link: "https://github.com/xd22898/Hackathon2",
+  },
 ];
 
 export default function Projects() {
